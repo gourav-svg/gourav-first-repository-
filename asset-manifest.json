@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Texutiles-react/static/css/main.e6c13ad2.css",
-    "main.js": "/Texutiles-react/static/js/main.10d24614.js",
-    "static/js/453.e9e7ec89.chunk.js": "/Texutiles-react/static/js/453.e9e7ec89.chunk.js",
-    "index.html": "/Texutiles-react/index.html",
-    "main.e6c13ad2.css.map": "/Texutiles-react/static/css/main.e6c13ad2.css.map",
-    "main.10d24614.js.map": "/Texutiles-react/static/js/main.10d24614.js.map",
-    "453.e9e7ec89.chunk.js.map": "/Texutiles-react/static/js/453.e9e7ec89.chunk.js.map"
+    "main.css": "/gourav-first-repository-/static/css/main.e6c13ad2.css",
+    "main.js": "/gourav-first-repository-/static/js/main.6e20c9e5.js",
+    "static/js/453.e9e7ec89.chunk.js": "/gourav-first-repository-/static/js/453.e9e7ec89.chunk.js",
+    "index.html": "/gourav-first-repository-/index.html",
+    "main.e6c13ad2.css.map": "/gourav-first-repository-/static/css/main.e6c13ad2.css.map",
+    "main.6e20c9e5.js.map": "/gourav-first-repository-/static/js/main.6e20c9e5.js.map",
+    "453.e9e7ec89.chunk.js.map": "/gourav-first-repository-/static/js/453.e9e7ec89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.10d24614.js"
+    "static/js/main.6e20c9e5.js"
   ]
 }
